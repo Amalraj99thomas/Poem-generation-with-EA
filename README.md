@@ -1,9 +1,8 @@
 # Poem-generation-with-EA
 
-I am creating this repo for us to edit code and keep everyone updated.
-I am using EA.ipynb with Trial_data.txt and Dataset_poems.txt
+Evolutionary algorithm in python to generate 4-line poems from a dataset of Maya Angelou poems.
 
-# 3/31/2022: 
+
 ## Basic functions created
  select_random_words = selects random words
  
